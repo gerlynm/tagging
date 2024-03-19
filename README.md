@@ -1,2 +1,2 @@
-#Testing by jerrii version 2 78787
+#Testing by jerrii version 2 78
 # AWS Elastic Beanstalk NodeJS application template
